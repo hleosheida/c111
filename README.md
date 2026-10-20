@@ -1,4 +1,4 @@
-# Kindred — Dating Recommendation Demo
+# Yar — Dating Recommendation Demo
 
 A portfolio project combining an interactive dating discovery interface with an explainable recommendation engine and reproducible data science evaluation. **All 360 adult profiles are fictional.** No real user data is collected.
 
@@ -44,5 +44,5 @@ API endpoints: `GET /api/profiles`, `GET /api/matches?user=1`, `GET /api/metrics
 This completed portfolio demo supports discovery and ranking. It has no authentication, real users, messaging or production deployment. A production dating service would need consent, data retention controls, blocking/reporting, moderation, abuse prevention and real-world evaluation.
 
 ## CV description
-**Kindred — Dating Recommendation System | Python, JavaScript, HTML/CSS**  
+**Yar — Dating Recommendation System | Python, JavaScript, HTML/CSS**  
 Built an explainable recommendation prototype with reciprocal preference filtering, cosine similarity ranking, an interactive interface and reproducible evaluation against a random baseline using synthetic data.
