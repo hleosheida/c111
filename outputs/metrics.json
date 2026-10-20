@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "profiles": 360,
+  "evaluated_queries": 360,
+  "k": 6,
+  "masked_interest_ndcg_at_6": 0.8152833584256901,
+  "random_baseline_ndcg_at_6": 0.32336242051411007,
+  "mean_eligible_candidates": 52.88333333333333,
+  "limitation": "Synthetic interest-recovery benchmark only. Does not measure attraction, safety, fairness or real dating outcomes."
+}
